@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soc l'Eric! 👋
 
-<!--
-**ericmitjavila-emc/ericmitjavila-emc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soc estudiant d'ASIX a La Salle Gràcia, Barcelona.
+M'interessa l'administració de sistemes i les xarxes.
+Actualment estic aprenent sobre infraestructura IT i ciberseguretat.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologies i eines que utilitzo
+- Linux / Windows Server
+- Xarxes i protocols (TCP/IP, DNS, DHCP)
+- Git & GitHub
+- HTML / CSS
+- Python (bàsic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Sobre mi
+- 📍 Barcelona
+- 📚 Estudiant d'ASIX (Administració de Sistemes Informàtics en Xarxa)
+- 🔭 Aprenent cada dia coses noves sobre sistemes i tecnologia
+
+## 📫 Contacte
+- GitHub: [@ericmitjavila-emc](https://github.com/ericmitjavila-emc)
