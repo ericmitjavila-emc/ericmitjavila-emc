@@ -9,7 +9,7 @@ Actualment estic aprenent sobre infraestructura IT i ciberseguretat.
 - Xarxes i protocols (TCP/IP, DNS, DHCP)
 - Git & GitHub
 - HTML / CSS
-- Python (bàsic)
+
 
 ## 🎯 Sobre mi
 - 📍 Barcelona
